@@ -3,5 +3,5 @@
 
 
 class Square:
-        """And empty square class with an artribute"""
+    """And empty square class with an artribute"""
     pass
